@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014430380786",
+    "project_id": "bubt-10dc6",
+    "storage_bucket": "bubt-10dc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014430380786:android:6f10b3fa1df00c67ed966b",
+        "android_client_info": {
+          "package_name": "com.example.bubt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014430380786-kk6cegiqkouuos44gs7vn8eou776dddi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxBWicLtpW3IdjC0KK1avEEqBYgChiHEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014430380786-kk6cegiqkouuos44gs7vn8eou776dddi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
